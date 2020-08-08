@@ -1,0 +1,14 @@
+shadowsocks=xbmmw.xyz:5691, method=aes-128-gcm, password=QQ3203434182, fast-open=false, udp-relay=false, tag=NetMudic2
+
+
+http=xbmmw.xyz:1001, over-tls=false,fast-open=false,udp-relay=false, tag=NetMusic3
+
+
+http=106.52.127.72:19951, over-tls=false, fast-open=false, udp-relay=false, tag= NetMusic
+
+
+
+http=aimer.one:2333, over-tls=false, fast-open=false, udp-relay=false, tag=NetMusic4
+
+
+Shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm,    password=desperadoj.com_free_proxy_x80j, fast-open=false, udp-relay=false, tag=NetMudic5
